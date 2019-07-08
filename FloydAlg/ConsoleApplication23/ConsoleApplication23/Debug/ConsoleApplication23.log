@@ -1,0 +1,5 @@
+﻿  ConsoleApplication23.cpp
+c:\users\kolya\source\repos\consoleapplication23\consoleapplication23\consoleapplication23.cpp(22): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\kolya\source\repos\consoleapplication23\consoleapplication23\consoleapplication23.cpp(23): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\kolya\source\repos\consoleapplication23\consoleapplication23\consoleapplication23.cpp(24): warning C4018: <: несоответствие типов со знаком и без знака
+  ConsoleApplication23.vcxproj -> C:\Users\kolya\source\repos\ConsoleApplication23\Debug\ConsoleApplication23.exe

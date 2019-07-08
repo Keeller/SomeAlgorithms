@@ -1,0 +1,10 @@
+﻿  ConsoleApplication20.cpp
+c:\users\kolya\source\repos\consoleapplication20\consoleapplication20\consoleapplication20.cpp(38): warning C4018: <: несоответствие типов со знаком и без знака
+  c:\users\kolya\source\repos\consoleapplication20\consoleapplication20\consoleapplication20.cpp(37): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\kolya\source\repos\consoleapplication20\consoleapplication20\consoleapplication20.cpp(53): note: выполняется компиляция ссылки на экземпляр шаблон функции "void HashTabel<int>::search(T)"
+          with
+          [
+              T=int
+          ]
+  c:\users\kolya\source\repos\consoleapplication20\consoleapplication20\consoleapplication20.cpp(50): note: выполняется компиляция ссылки на экземпляр шаблон класс "HashTabel<int>"
+  ConsoleApplication20.vcxproj -> C:\Users\kolya\source\repos\ConsoleApplication20\Debug\ConsoleApplication20.exe
